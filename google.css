@@ -1,0 +1,15 @@
+.topbar{
+	position: absolute;
+    	right: 10px;
+	top: 10px;
+	display: inline;
+
+}
+
+img{
+	display: block;
+	margin-top: 100px;
+    	margin-left: auto;
+	margin-right: auto;    	
+	width: 40%;
+}
