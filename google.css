@@ -12,8 +12,30 @@
 
 img{
 	display: block;
-	margin-top: 200px;
+	margin-top: 160px;
     	margin-left: auto;
 	margin-right: auto;    	
-	width: 30%;
+	width: 35%;
 }
+
+input[type=text] {
+	display: block;
+	width: 30%;
+	padding: 10px;
+	margin-left: 33%;
+	margin-right: 30%;
+	
+}
+
+
+li {
+	position: float:center;
+	display: inline;
+	text-align: center;
+	border: 10px solid #f3f3f3; 
+    	background-color: #f3f3f3;
+}
+
+
+
+
