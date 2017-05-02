@@ -10,8 +10,9 @@
 	color: #696969;
 	line-height: 24px;
 	outline: none;
-	vertical-align: middle;
+	vertical-align: middle;	
 }
+
 
 img{
 	display: block;
@@ -32,7 +33,11 @@ input[type=text] {
 
 a{
 	color: #696969;
-	text-decoration: none;
+	text-decoration: none;	
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 .buttons{
@@ -43,13 +48,12 @@ a{
 	display: inline;
 	color: #696969;
 	line-height: 24px;
-	outline: none;
+	
 	vertical-align: middle;
 	text-align: center;
 	border: 10px solid #f3f3f3; 
     	background-color: #f3f3f3;
-	
-}
+}	
 
 
 
