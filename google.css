@@ -1,5 +1,5 @@
 * {
-  font-family: arial, sans-serif;
+	font-family: arial, sans-serif;
 }
 
 .topbar{
@@ -7,7 +7,10 @@
     	right: 10px;
 	top: 5px;
 	display: inline;
-
+	color: #696969;
+	line-height: 24px;
+	outline: none;
+	vertical-align: middle;
 }
 
 img{
@@ -24,16 +27,28 @@ input[type=text] {
 	padding: 10px;
 	margin-left: 33%;
 	margin-right: 30%;
-	
 }
 
 
-li {
-	position: float:center;
+a{
+	color: #696969;
+	text-decoration: none;
+}
+
+.buttons{
+	
+	position: absolute;
+    	margin-left: 460px;
+	margin-top: 40px;
 	display: inline;
+	color: #696969;
+	line-height: 24px;
+	outline: none;
+	vertical-align: middle;
 	text-align: center;
 	border: 10px solid #f3f3f3; 
     	background-color: #f3f3f3;
+	
 }
 
 
